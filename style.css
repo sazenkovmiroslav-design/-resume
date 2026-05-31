@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: aquamarine;
+    border: 5px solid orangered;
+    border-radius: 20%;
+}
+
+ul{
+    color: gold;
+    border: 5px solid paleturquoise;
+    border-radius: 10%;
+}
